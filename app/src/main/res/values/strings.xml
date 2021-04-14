@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Dabbagh-MidT2</string>
+    <string name="welcome">Yasmeen Dabbagh 191307</string>
+
+    <string name="col1">ID</string>
+    <string name="col2">Name</string>
+    <string name="col3">Email</string>
+    <string name="col4">Phone Number</string>
+
+    <string name="search">Search</string>
+    <string name="delete">Delete</string>
+    <string name="View">View</string>
+    <string name="searchanddelete">Search and Delete</string>
+
+
+    <string name="add">Insert</string>
+
+    <string name="page1">Go to Screen 1</string>
+    <string name="page2">Go to Screen 2</string>
+    <string name="page3">Go to Screen 3</string>
+
+</resources>
